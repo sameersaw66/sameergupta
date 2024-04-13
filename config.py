@@ -23,7 +23,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "2107529793"))
+OWNER_ID = int(getenv("OWNER_ID", "5311223486"))
 
 BOT_USERNAME = getenv("BOT_USERNAME" , "sweety_x_music_bot")
 
@@ -86,7 +86,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/511492162c45582b2e5d7.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/5dfbd1a056fdece9e1b94.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/29bf663a3b91c7e0086bc.jpg"
