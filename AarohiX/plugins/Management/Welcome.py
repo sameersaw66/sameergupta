@@ -1,5 +1,5 @@
-#<<<<<<<<<<<<<<DiL>>>>>>>>>>>>>>#
-#<<<<<<<<<<<<<<Give<Credit<Else>You>Chutiya>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<TMM>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<Give<Credit<Else>You>Madarchod>>>>>>>>>>>>>>#
 import os
 from PIL import ImageDraw, Image, ImageFont, ImageChops
 from pyrogram import *
@@ -98,7 +98,7 @@ Iᴅ ✧ {user.id}
 Usᴇʀɴᴀᴍᴇ ✧ @{user.username}
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """,
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/Alone_Dil_bot?startgroup=true")]])
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/spotify_x_music_bot?startgroup=true")]])
         )
     except Exception as e:
         LOGGER.error(e)
