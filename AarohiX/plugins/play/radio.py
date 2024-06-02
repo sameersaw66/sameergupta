@@ -13,7 +13,7 @@ from pyrogram.types import Message
 from config import BANNED_USERS, adminlist
 from strings import get_string
 from AarohiX import app
-from Aarohi.misc import SUDOERS
+from AarohiX.misc import SUDOERS
 from AarohiX.utils.database import (
     get_assistant,
     get_cmode,
