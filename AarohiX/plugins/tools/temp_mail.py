@@ -1,7 +1,7 @@
 import aiohttp
 from aiohttp import ContentTypeError
 from pyrogram import filters
-from Aarohix import app as app
+from AarohiX import app as app
 
 async def generate_random_mailbox():
     url = 'https://www.1secmail.com/api/v1/?action=genRandomMailbox&count=1'
