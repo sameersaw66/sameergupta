@@ -1,7 +1,7 @@
 {
-    "name": "˹ᴀᴀʀᴏʜɪ ˼ [V2]",
+    "name": "ᴏɴ𝟿 ᴍᴜsɪᴄ [V2]",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/312bf3022b3f673cdf374.jpg",
+    "logo": "https://graph.org/file/363c90a975dcb78cb8899.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @Shsusu_bot on Telegram.",
+        "description": "A Pyrogram v2 String Session from @tmm_string_bot on Telegram.",
         "value": "",
         "required": true
       },
