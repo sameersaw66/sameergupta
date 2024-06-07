@@ -23,9 +23,9 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "5311223486"))
+OWNER_ID = int(getenv("OWNER_ID", "2095867247"))
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "spotify_x_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "on9musicbot)
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TMM-TEAM/https-github.com-code663-arohi",
+    "https://github.com/sameersaw66/sameergupta",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/tmm_heroku_world")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/tmm_heroku_world")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mr_editx")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/on9musicsupport")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -65,7 +65,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 
-# Get your pyrogram v2 session from @Shsusu_bot on Telegram
+# Get your pyrogram v2 session from @tmm_string_bot on Telegram
 STRING1 = getenv("STRING_SESSION", "")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
